@@ -1,7 +1,7 @@
 ![python_vesion](https://img.shields.io/badge/Python-3.5%2B-green.svg)   [![itchat_vesion](https://img.shields.io/badge/Itchat-1.3.10-brightgreen.svg)](https://github.com/littlecodersh/ItChat)   [![codebeat badge](https://codebeat.co/badges/0953014f-dbd3-41f4-bacd-60018e7d5065)](https://codebeat.co/projects/github-com-sfyc23-everydaywechat-master)   [![MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/sfyc23/EverydayWechat/blob/master/LICENSE)               [![weibo](https://img.shields.io/badge/weibo-@sfyc23-red.svg)](https://www.weibo.com/sfyc23)
 
 
-
+Forked from sfyc23/EverydayWechat 大佬！！！
 [EverydayWechat](https://github.com/sfyc23/EverydayWechat) 是基于 Python3 与 [Itchat](https://github.com/littlecodersh/ItChat) 的微信小工具。  
 可以定时给朋友或者群聊发送每日天气、提醒、每日一句，也可以智能自动回复好友信息。  
 操作简单，小白用户也可快速上手。
